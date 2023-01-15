@@ -1,0 +1,6 @@
+[submodule "malloc"]
+	path = malloc
+	url = git@github.com:iwillenshofer/malloc.git
+[submodule "ft_malloc"]
+	path = ft_malloc
+	url = git@github.com:iwillenshofer/malloc.git
